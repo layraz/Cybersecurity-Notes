@@ -10,4 +10,4 @@ A curated, module-by-module collection of comprehensive study guides and referen
 
 ### Modules
 
-* [Introduction to Information Security](Introduction%20to%20Cybersecurity.pdf)
+* [Introduction to Information Security](./eCJA/Introduction%20to%20Cybersecurity.pdf)
