@@ -10,5 +10,5 @@ A curated, module-by-module collection of comprehensive study guides and referen
 
 ### Modules
 
-* [Introduction to Information Security](./eCJA/Introduction%20to%20Cybersecurity.pdf)
-* [Network Foundations](./eCJA/Network%20Foundations.pdf)
+* [Introduction to Information Security](./eCJA/1.%20Introduction%20to%20Information%20Security.pdf)
+* [Network Foundations](./eCJA/2.%20Network%20Foundations.pdf)
